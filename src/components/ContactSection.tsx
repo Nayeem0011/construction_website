@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Button } from "../components/ui/button";
-import { Phone, Mail, MapPin, Send, ArrowRight } from "lucide-react";
+import { Phone, Mail, MapPin, Send } from "lucide-react";
 import { toast } from "sonner";
 
 const ContactSection = () => {

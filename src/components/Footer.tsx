@@ -1,4 +1,4 @@
-import { Building2, Facebook, Twitter, Instagram, Linkedin, ArrowUp } from "lucide-react";
+import { Facebook, Twitter, Instagram, Linkedin, ArrowUp } from "lucide-react";
 
 const Footer = () => {
   const scrollToTop = () => {

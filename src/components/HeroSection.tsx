@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import { useState } from "react";
 import { Button } from "../components/ui/button";
 import { Play, ArrowRight, X } from "lucide-react";
 import { useCountUp } from "../hooks/useCountUp";
